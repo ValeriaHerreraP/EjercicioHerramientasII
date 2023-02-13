@@ -1,0 +1,15 @@
+/Users/usuario/Desktop/HerramientasII/Ejercicio Herramientas/bin/Release/net7.0/Ejercicio Herramientas
+/Users/usuario/Desktop/HerramientasII/Ejercicio Herramientas/bin/Release/net7.0/Ejercicio Herramientas.deps.json
+/Users/usuario/Desktop/HerramientasII/Ejercicio Herramientas/bin/Release/net7.0/Ejercicio Herramientas.runtimeconfig.json
+/Users/usuario/Desktop/HerramientasII/Ejercicio Herramientas/bin/Release/net7.0/Ejercicio Herramientas.dll
+/Users/usuario/Desktop/HerramientasII/Ejercicio Herramientas/bin/Release/net7.0/Ejercicio Herramientas.pdb
+/Users/usuario/Desktop/HerramientasII/Ejercicio Herramientas/obj/Release/net7.0/Ejercicio Herramientas.csproj.AssemblyReference.cache
+/Users/usuario/Desktop/HerramientasII/Ejercicio Herramientas/obj/Release/net7.0/Ejercicio Herramientas.GeneratedMSBuildEditorConfig.editorconfig
+/Users/usuario/Desktop/HerramientasII/Ejercicio Herramientas/obj/Release/net7.0/Ejercicio Herramientas.AssemblyInfoInputs.cache
+/Users/usuario/Desktop/HerramientasII/Ejercicio Herramientas/obj/Release/net7.0/Ejercicio Herramientas.AssemblyInfo.cs
+/Users/usuario/Desktop/HerramientasII/Ejercicio Herramientas/obj/Release/net7.0/Ejercicio Herramientas.csproj.CoreCompileInputs.cache
+/Users/usuario/Desktop/HerramientasII/Ejercicio Herramientas/obj/Release/net7.0/Ejercicio Herramientas.dll
+/Users/usuario/Desktop/HerramientasII/Ejercicio Herramientas/obj/Release/net7.0/refint/Ejercicio Herramientas.dll
+/Users/usuario/Desktop/HerramientasII/Ejercicio Herramientas/obj/Release/net7.0/Ejercicio Herramientas.pdb
+/Users/usuario/Desktop/HerramientasII/Ejercicio Herramientas/obj/Release/net7.0/Ejercicio Herramientas.genruntimeconfig.cache
+/Users/usuario/Desktop/HerramientasII/Ejercicio Herramientas/obj/Release/net7.0/ref/Ejercicio Herramientas.dll
